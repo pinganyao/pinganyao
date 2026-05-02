@@ -16,7 +16,7 @@ Computer science & music technology · Pianist, composer, songwriter
 
 I work at the intersection of **computer science, music and sound**. I’m a senior at **Campion School** in **Athens, Greece**, and an incoming Music & Technology + CS undergraduate at **Carnegie Mellon**. My research interests include **computer music**, **AI audio**, **web audio**, **sound design**, and **human-computer musical interaction**.
 
-**Things I’ve started**
+**Things you might know me from**
 
 - [**Athens Music Technology Forum (AMTF)**](https://amtf.gr/) — interdisciplinary research and outreach in CS and music (inaugural forum: *The Sonic Frontier: AI and the Future of Music*, Megaro Mousikis, 2025).
 - [**Musical Metrics**](https://musicalmetrics.xyz) — browser-based ear-training games for musical pedagogy and sound-based music learning research.
