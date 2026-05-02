@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.yaopingan.com/patrick.jpg" alt="Patrick Yao" width="160" />
+<img src="https://www.yaopingan.com/patrick.jpg" alt="Patrick Yao" width="160" style="border-radius: 16px;" />
 
 ### Patrick Yao
 
