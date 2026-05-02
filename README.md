@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="PY.svg" alt="Patrick Yao" width="160" style="border-radius: 16px;" />
+<img src="PY.png" alt="Patrick Yao" width="160" style="border-radius: 16px;" />
 
 ### Patrick Yao
 
