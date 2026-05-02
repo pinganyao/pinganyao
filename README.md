@@ -14,21 +14,16 @@ Computer science & music technology · Pianist, composer, songwriter
 
 ---
 
-I work at the intersection of **music, code, and human–computer interaction**. I’m a CS undergraduate at **Carnegie Mellon**, based in **Athens, Greece**. My research interests include **computer music**, **AI in music**, **web audio**, **sound design**, and **gesture-driven interactive improvisation**.
+I work at the intersection of **computer science, music and sound**. I’m a senior at **Campion School** in **Athens, Greece**, and an incoming Music & Technology + CS undergraduate at **Carnegie Mellon**. My research interests include **computer music**, **AI audio**, **web audio**, **sound design**, and **human-computer musical interaction**.
 
-**Things I’ve started or shipped**
+**Things I’ve started**
 
-- [**Athens Music Technology Forum (AMTF)**](https://amtf.gr/) — interdisciplinary outreach and events at the boundary of CS and music (inaugural forum: *The Sonic Frontier: AI and the Future of Music*, Megaro Mousikis, 2025).
-- [**Musical Metrics**](https://musicalmetrics.xyz) — browser-based ear-training tools with **JavaScript**, **HTML**, and [**Tone.js**](https://tonejs.github.io/) for pedagogy and listening-skills research.
+- [**Athens Music Technology Forum (AMTF)**](https://amtf.gr/) — interdisciplinary research and outreach in CS and music (inaugural forum: *The Sonic Frontier: AI and the Future of Music*, Megaro Mousikis, 2025).
+- [**Musical Metrics**](https://musicalmetrics.xyz) — browser-based ear-training games for musical pedagogy and sound-based music learning research.
 
-I peer-review for venues such as **ICMC** and **WAC**, and I share performances, covers, and music-tech experiments on [YouTube](https://www.youtube.com/@patrickyao/videos).
+I also peer-review for venues such as **ICMC** and **NIME**; In addition, you can find some of my music on [YouTube](https://www.youtube.com/@patrickyao/videos).
 
 ---
-
-<div align="center">
-
-**Languages & tools**  
-Python · JavaScript · C · Swift · HTML/CSS · ML · Tone.js · DAWs & audio production
 
 </div>
 
