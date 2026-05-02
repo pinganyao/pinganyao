@@ -6,8 +6,6 @@
 
 **Musician · Researcher**
 
-Computer science & music technology · Pianist, composer, songwriter
-
 [Website](https://www.yaopingan.com/) · [LinkedIn](https://www.linkedin.com/in/pinganyao/) · [YouTube](https://www.youtube.com/@patrickyao/videos) · [Instagram](https://www.instagram.com/ytpyao/)
 
 </div>
