@@ -4,7 +4,7 @@
 
 ### Patrick Yao
 
-**Musician · Researcher · Builder**
+**Musician · Researcher**
 
 Computer science & music technology · Pianist, composer, songwriter
 
