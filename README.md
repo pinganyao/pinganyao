@@ -12,7 +12,7 @@
 
 ---
 
-I work at the intersection of **computer science and music**. I’m a senior at **Campion School** in **Athens, Greece**, and an incoming Music & Technology + CS undergraduate at **Carnegie Mellon**. My research interests include **computer music**, **AI audio**, **web audio**, **sound design**, and **human-computer musical interaction**.
+I work at the intersection of **computer science and music**. I'm an incoming Music & Technology + CS undergraduate at **Carnegie Mellon**. My research interests include **computer music**, **AI audio**, **web audio**, **sound design**, and **human-computer musical interaction**.
 
 **Things you might know me from**
 
