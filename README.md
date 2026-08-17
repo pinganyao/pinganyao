@@ -17,6 +17,6 @@ I also peer-review for venues such as **ICMC** and **NIME**; In addition, you ca
 
 </div>
 
-<p align="center">
+<p>
   <sub>More detail, CV, and contact: <a href="https://www.yaopingan.com/">yaopingan.com</a> · <a href="mailto:patrickyao@campion.edu.gr">patrickyao@campion.edu.gr</a></sub>
 </p>
