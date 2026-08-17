@@ -1,10 +1,18 @@
 <div align="center">
 
-### Patrick Yao
+<h1>Patrick Yao</h1>
 
-**Musician · Researcher**
+<p><strong>Musician · Researcher</strong></p>
 
-[Website](https://www.yaopingan.com/) · [LinkedIn](https://www.linkedin.com/in/pinganyao/) · [YouTube](https://www.youtube.com/@patrickyao/videos) · [Instagram](https://www.instagram.com/ytpyao/)
+<p>
+  <a href="https://www.yaopingan.com/">Website</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pinganyao/">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@patrickyao/videos">YouTube</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ytpyao/">Instagram</a>
+</p>
 
 </div>
 
