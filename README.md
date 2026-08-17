@@ -2,7 +2,7 @@
 
 <h1>Patrick Yao</h1>
 
----
+</div>
 
 I work at the intersection of **computer science and music**. I'm an incoming Music & Technology + CS undergraduate at **Carnegie Mellon**. My research interests include **computer music**, **AI audio**, **web audio**, **sound design**, and **human-computer musical interaction**.
 
