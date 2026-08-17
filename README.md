@@ -2,22 +2,6 @@
 
 <h1>Patrick Yao</h1>
 
-<p><strong>Musician · Researcher</strong></p>
-
-<p>
-  <a href="https://www.yaopingan.com/">Website</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pinganyao/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@patrickyao/videos">YouTube</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ytpyao/">Instagram</a>
-</p>
-
-</div>
-
----
-
 I work at the intersection of **computer science and music**. I'm an incoming Music & Technology + CS undergraduate at **Carnegie Mellon**. My research interests include **computer music**, **AI audio**, **web audio**, **sound design**, and **human-computer musical interaction**.
 
 **Things you might know me from**
